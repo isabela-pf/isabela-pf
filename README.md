@@ -13,7 +13,7 @@ and [spyder-ide/ux-improvements](https://github.com/spyder-ide/ux-improvements/)
 
 It's nice to meet you! Feel free to reach out by leaving an issue on [this repo](https://github.com/isabela-pf/isabela-pf).
 
-✨ 🌱 🌻 🌱 ✨
+✨ 🌻
 
 
 <!--
