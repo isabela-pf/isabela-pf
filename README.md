@@ -3,9 +3,8 @@ self-proclamation. You may also know me as an admirer of the color orange,
 proponent of floral patterns, and generally curious person.
 
 I’m fortunate to work at [Quansight Labs](https://labs.quansight.org/) and spend 
-most (but certainly not all) of my time in the [JupyterLab](https://github.com/jupyterlab/jupyterlab/) 
-and [Spyder](https://github.com/spyder-ide/spyder) communities. Accessibility, 
-community, and supporting new and underrepresented people are a few of the 
+most (but certainly not all) of my time in [Jupyter](https://jupyter.org/) communities. 
+Accessibility, community, and supporting new and underrepresented people are a few of the 
 things that matter to me.
 
 A few places on Github you might find me are [jupyter/accessibility](https://github.com/jupyter/accessibility/) 
